@@ -12,7 +12,7 @@ public class Runner {
         Helper help = new Helper();
         help.callTest();
 
-        // comment for this line ######## now changed
+        // Comment for this line ######## now changed
         // this line is just for bcl_ahmet branch
 
         help.createPatient();
